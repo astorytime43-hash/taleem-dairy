@@ -1,0 +1,7 @@
+{
+  "name": "Shiksha Safar",
+  "description": "A vibrant and energetic classroom activity record app for primary government school teachers to track daily activities, homework, and student participation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
